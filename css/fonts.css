@@ -1,0 +1,36 @@
+
+
+
+@font-face {
+    font-family: "NeoSansArabicLight";
+    src:url("../webfonts/NeoSansArabic/NeoSansArabicLight.woff") ,  url("../webfonts/NeoSansArabic/NeoSansArabicLight.ttf") format("truetype");
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Neo Sans Arabic Regular";
+    src:url("../webfonts/NeoSansArabic/Neo Sans Arabic Regular.woff") ,  url("../webfonts/NeoSansArabic/Neo Sans Arabic Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
+@font-face {
+    font-family: "NeoSansArabicMedium";
+    src:url("../webfonts/NeoSansArabic/NeoSansArabicMedium.woff") , url("../webfonts/NeoSansArabic/NeoSansArabicMedium.ttf") format("truetype");
+    font-weight: 500;
+    font-style: normal;
+}
+
+
+
+@font-face {
+    font-family: "NeoSansArabicBold";
+    src:url("../webfonts/NeoSansArabic/NeoSansArabicBold.woff")  , url("../webfonts/NeoSansArabic/NeoSansArabicBold.ttf") format("truetype");
+    font-weight: 700;
+    font-style: normal;
+}
+
+
