@@ -970,6 +970,9 @@ color: var(--main-color);
   align-items: center;
   min-height: 100px;
 }
+.order-det{
+  border:0 !important
+}
 
 .delete-btn{
   display: none;
@@ -982,7 +985,7 @@ color: var(--main-color);
     outline: none;
     
     align-items: center;
-    justify-content: 
+    justify-content: center;
 }
 .delete-btn:focus{
   outline: none;
